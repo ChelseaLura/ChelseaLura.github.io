@@ -39,7 +39,7 @@ p {
 /*navigation*/
 
 .l-navigation-wrap {
-    background-color: #E74C3C;
+    background-color: #40C79A;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -82,14 +82,14 @@ p {
 /* gallery section */
 
 .l-gallery-categories ul li:hover {
-    background-color: #d66969;
-    border: 1px solid #d66969;
+    background-color: #62b7a4;
+    border: 1px solid #62b7a4;
     color: #fff;
     cursor: pointer;
 }
 
 .l-gallery-section .m-heading-border {
-    background-color: #d66969;
+    background-color: ##62b7a4;
 }
 
 .l-gallery-section {
@@ -106,7 +106,7 @@ p {
 
 
 .l-contactus-section {
-    background-color: #E74C3C;
+    background-color: #62b7a4;
     color: #fff;
 }
 

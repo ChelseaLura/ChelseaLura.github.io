@@ -64,6 +64,7 @@ h2 {
     height: 4px;
     width: 80px;
     margin: 18px auto 15px auto;
+    color: #41C2FF;
 }
 
 /*main wrapper*/
@@ -205,7 +206,7 @@ h2 {
 }
 
 .second-btn {
-    background-color: #269796;
+    background-color: #3B2663;
 }
 
 .m-splash-image .second-btn:hover {
@@ -766,24 +767,20 @@ h2 {
 
 /* gallery bacgrounds */
 
-.green {
-    background-color: #1abc9c;
-}
-
-.red {
-    background-color: #e74c3c;
-}
-
 .blue {
-    background-color: #34495e;
+    background-color: #5962FF;
+}
+/* actually it is orange*/
+.orange {
+    background-color: #F27526;
 }
 
-.emerald {
+.lightblue {
     background-color: #5ed5dc;
 }
 
 .yellow {
-    background-color: #efc84a;
+    background-color: #EFC84A;
 }
 
 .gallery-hover-wrap  {
