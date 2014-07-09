@@ -1,4 +1,5 @@
 Portfolio
 =========
 
-*currently in progress* Not ready for public viewing
+*currently in progress Not ready for public viewing
+
