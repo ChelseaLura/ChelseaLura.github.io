@@ -387,11 +387,10 @@ h2 {
 .m-social-icons {
     padding:0 13px 0 0;
     display: block;
-    /*margin: 0 auto;*/
 }
 
 .m-social-icons a {
-    color: #fff;
+    color: #62b7a4;
     text-align: center;
     display: inline-block;
     font-size: 1.2em;
@@ -405,7 +404,7 @@ h2 {
 }
 
 .m-social-icons a:hover {
-    background-color: #f36363;
+    background-color: #3B2663;
 }
 
 .l-copyright p {
