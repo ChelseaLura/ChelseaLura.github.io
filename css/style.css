@@ -168,10 +168,6 @@ h2 {
     font-size: 1.4em;
 }
 
-.video-background .mb_YTVPlayer {
-    padding: 0;
-    border: none;
-}
 
 .m-splash-image a {
     padding: 13px 25px;
@@ -227,19 +223,9 @@ h2 {
 }
 
 .slide-background {
-    background: url('../img/slider-background2.jpg') no-repeat center;
+    background: url('../img/engineturbine.jpeg') no-repeat center;
 }
 
-/*
-.video-overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background-color: #05bff4;
-    opacity: 0.5;
-    z-index: 10;
-}
-*/
 .flexslider-splash {
     margin-bottom: 0;
 }
