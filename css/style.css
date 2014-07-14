@@ -356,7 +356,6 @@ h2 {
 
 .navbar ul li a {
     font-size: 1em;
-    text-transform: uppercase;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -752,16 +751,17 @@ h2 {
 
 /* gallery bacgrounds */
 
+/* actually it is teal*/
 .blue {
-    background-color: #5962FF;
+    background-color: #40C79A;
 }
-/* actually it is orange*/
 .orange {
     background-color: #F27526;
 }
 
+/* actually it is purple*/
 .lightblue {
-    background-color: #5ed5dc;
+    background-color: #3B2663;
 }
 
 .yellow {
