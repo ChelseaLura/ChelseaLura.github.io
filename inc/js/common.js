@@ -236,19 +236,6 @@ jQuery(window).load(function() {
 });
 
 
-/*================================================
- Twitter script
- ================================================*/
-jQuery(document).ready(function() {
-    jQuery('.flexslider-twitter').tweet({
-        modpath: 'inc/tweet/twitter/index.php',
-        count: 3,
-        username: 'envato',
-        loading_text: 'loading twitter feed...',
-        template: "{avatar}{text}{join}{time}"
-    });
-});
-
 
 jQuery(window).load(function() {
     'use strict';
@@ -262,24 +249,6 @@ jQuery(window).load(function() {
     }, 1000);
 
 
-    /* ==============================================
-     Testimonials flexslider
-     =============================================== */
-    jQuery('.flexslider-testimonials').flexslider({
-        prevText: "",
-        nextText: ""
-    });
-
-
-    /* ==============================================
-     Twitter flexslider
-     =============================================== */
-
-    jQuery('.flexslider-twitter').flexslider({
-        prevText: "",
-        nextText: "",
-        directionNav: false
-    });
 
 
     /* ==============================================
